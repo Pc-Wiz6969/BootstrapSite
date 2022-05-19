@@ -1,2 +1,1 @@
-# BootstrapSite
-Site based on Bootstrap and has responsive layouts.
+TinDog Starting Files
